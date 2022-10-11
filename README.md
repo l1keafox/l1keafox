@@ -14,5 +14,3 @@ I am always looking to collaborate on any project!
 - Email me at: raymond.ed.lewis@gmail.com
 
 - Chat with me on Discord: likeafox#5628
-
-- Leetcode: https://leetcode.com/l1keafox/
