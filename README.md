@@ -15,7 +15,6 @@ React: Oct/2022
 https://l1keafox.github.io/reactFolio/
 
 HTML: Sept/2022
-
 https://l1keafox.github.io/Rayfolio/
 
 
