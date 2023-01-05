@@ -7,7 +7,7 @@ My name is Raymond Lewis. I am a full-stack developer👨‍💻 with an backgro
 I am always looking to collaborate on any project! 
 
 
-## My portfolio S
+## My portfolios
 Vue: Nov/2022
 https://gorgeous-sorbet-b95f3f.netlify.app/
 
