@@ -13,6 +13,9 @@ I'm currently learning: <img width ='32px' src ='https://raw.githubusercontent.c
 
 
 ## My portfolios
+Nuxt3: Feb/2023
+https://vuerayfolio.netlify.app/
+
 Vue: Nov/2022
 https://gorgeous-sorbet-b95f3f.netlify.app/
 
