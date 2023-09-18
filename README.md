@@ -16,21 +16,6 @@ I'm currently learning: <img width ='32px' src ='https://raw.githubusercontent.c
 Nuxt3: Feb/2023
 https://vuerayfolio.netlify.app/
 
-Vue: Nov/2022
-https://gorgeous-sorbet-b95f3f.netlify.app/
-
-React: Oct/2022
-https://l1keafox.github.io/reactFolio/
-
-HTML: Sept/2022
-https://l1keafox.github.io/Rayfolio/
-
-
 ## Contact Me
-#
 
 - Follow me on: https://www.linkedin.com/in/raymond-lewis-51719325/
-
-- Email me at: raymond.ed.lewis@gmail.com
-
-- Chat with me on Discord: likeafox#5628
